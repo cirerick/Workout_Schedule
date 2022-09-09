@@ -1,0 +1,1 @@
+C:\Users\Erick\ La\ Paz\Documents\Rust_Programs\Chapter0\rotating_workout_week\target\debug\rotating_workout_week.exe: C:\Users\Erick\ La\ Paz\Documents\Rust_Programs\Chapter0\rotating_workout_week\src\main.rs
